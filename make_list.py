@@ -1,7 +1,7 @@
 
 #arr = input('Atteibute name') #이런 식으로 호출가능
 #data["price"] = 5500 #내부값변경
-
+#while 루프를 사용한 의사결정트리
 #print(data[arr])
 s1 = {"name":"KFC",
       "addr":"zonggak-4",
